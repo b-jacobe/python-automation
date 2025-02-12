@@ -1,6 +1,7 @@
 # 🛠️ Python Automation
 
 ## 🚀 Overview
+
 This repository contains a collection of Python scripts for **data processing, automation, web scraping, and utility functions**. Each project is structured independently with its own dependencies.
 
 ---
@@ -44,12 +45,14 @@ This repository contains a collection of Python scripts for **data processing, a
 ## 🛠️ Installation & Setup
 
 ### **1️⃣ Clone the Repository**
+
 ```bash
 git clone https://github.com/yourusername/python-automation-scripts.git
 cd python-automation-scripts
 ```
 
 ### **2️⃣ Set Up a Virtual Environment (Recommended)**
+
 ```bash
 python3 -m venv venv
 source venv/bin/activate  # On macOS/Linux
@@ -57,7 +60,9 @@ venv\Scripts\activate   # On Windows
 ```
 
 ### **3️⃣ Install Dependencies**
+
 For each project, navigate to its folder and install dependencies:
+
 ```bash
 cd attribute_status_audit
 pip install -r requirements.txt
@@ -67,12 +72,12 @@ pip install -r requirements.txt
 
 ## 📌 Projects & Features
 
-| Project Name | Description |
-|-------------|------------|
-| **Attribute Status Audit** | Parses Excel logs to extract attribute status changes |
-| **Excel Data Cleaner** | Cleans and formats raw Excel/CSV files |
-| **Web Scraper - Amazon** | Scrapes product reviews from Amazon |
-| **Automated Email Reports** | Sends scheduled reports via email |
+| Project Name                | Description                                           |
+| --------------------------- | ----------------------------------------------------- |
+| **Attribute Status Audit**  | Parses Excel logs to extract attribute status changes |
+| **Excel Data Cleaner**      | Cleans and formats raw Excel/CSV files                |
+| **Web Scraper - Amazon**    | Scrapes product reviews from Amazon                   |
+| **Automated Email Reports** | Sends scheduled reports via email                     |
 
 ---
 
@@ -94,6 +99,7 @@ pip install -r requirements.txt
 ---
 
 ## 🔥 Future Enhancements
+
 - [ ] Add more automation scripts (e.g., Slack bot, Google Sheets API)
 - [ ] Implement logging & error handling best practices
 - [ ] Optimize performance for large datasets
@@ -101,9 +107,11 @@ pip install -r requirements.txt
 ---
 
 ## 📜 License
+
 This repository is licensed under the **MIT License**.
 
 ---
 
 ## 📩 Contact & Support
+
 For issues, open a GitHub **issue** or reach out via email: `brian.a.jacobe@gmail.com`.
