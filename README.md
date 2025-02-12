@@ -12,7 +12,6 @@ This repository contains a collection of Python scripts for **data processing, a
 │── 📂 attribute_status_audit/    # Project: Attribute Status Audit Script
 │   ├── 📜 attribute_status_audit.py
 │   ├── 📜 README.md
-│   ├── 📜 requirements.txt
 │   ├── 📂 sample_data/
 │   │   ├── sample_input.xlsx
 │   │   ├── expected_output.xlsx
@@ -35,7 +34,6 @@ This repository contains a collection of Python scripts for **data processing, a
 │   ├── 📜 auto_backup.py
 │
 │── 📂 venv/                        # Virtual Environment (ignored in .gitignore)
-│── 📜 requirements.txt             # Project-wide dependencies (if applicable)
 │── 📜 setup.py                     # Setup script (if needed)
 │── 📜 .gitignore                    # Ignore venv, logs, etc.
 │── 📜 README.md                    # Main repository README
